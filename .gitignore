@@ -1,0 +1,38 @@
+# KiCad #
+#########
+# KiCad project backups
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+*.lck
+devBoard-backups/
+.history/
+
+# KiCad caches
+fp-info-cache
+*.sqlite3
+
+# Gerbers, drill, and other fabrication files
+# We ignore these since they are generated output
+*.gbr
+*.drl
+*.gbrjob
+*.pos
+*.rpt
+*.zip
+
+# OS / Editor #
+###############
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 3D modeling backups
+*.blend1

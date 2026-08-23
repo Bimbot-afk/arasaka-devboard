@@ -1,0 +1,18 @@
+"Id";"Identificador";"Huella";"Cantidad";"Identificación";"Suministrador y ref";
+1;"C1, C2";"C_0603_1608Metric";2;"10μF";;;
+2;"C3, C6";"C_0402_1005Metric";2;"1 μF";;;
+3;"C4, C5, C7, C8, C9, C10, C11, C12, C15, C16";"C_0402_1005Metric";10;"0,1 μF";;;
+4;"C13, C14";"C_0402_1005Metric";2;"33pF";;;
+5;"C17";"C_0402_1005Metric";1;"0.1µF";;;
+6;"J1";"USB_C_Receptacle_HRO_TYPE-C-31-M-12";1;"USB_C_Receptacle_USB2.0_14P";;;
+7;"J2, J4";"PinHeader_1x20_P2.54mm_Vertical";2;"Conn_01x20";;;
+8;"J3";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
+9;"R1, R2";"R_0402_1005Metric";2;"5.1k";;;
+10;"R3, R4";"R_0402_1005Metric";2;"27";;;
+11;"R5, R7";"R_0402_1005Metric";2;"1k";;;
+12;"R6";"R_0402_1005Metric";1;"10k";;;
+13;"SW1";"SW_Push_SPST_NO_Alps_SKRK";1;"SW_Push";;;
+14;"U1";"SOT-223-3_TabPin2";1;"NCP1117-3.3_SOT223";;;
+15;"U2";"QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm";1;"RP2040";;;
+16;"U3";"SOIC-8_5.3x5.3mm_P1.27mm";1;"W25Q128JVS";;;
+17;"Y1";"Crystal_SMD_3225-4Pin_3.2x2.5mm";1;"Crystal_GND24";;;
